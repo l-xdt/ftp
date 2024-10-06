@@ -293,3 +293,7 @@ ul#files.view-details li.header {
 #files .icon-bat .name {
   background-image: url(../icons/icon-bat.png);
 }
+
+#files .icon-image-svg .name {
+  background-image: url(../icons/icon-image-svg.png);
+}
